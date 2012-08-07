@@ -1,1 +1,16 @@
 Additional tests to be used with modernizr.js
+
+Pseudo Classes
+last-child
+nth-child(odd)
+nth-child(even)
+nth-child(n)
+nth-of-type(odd)
+
+Attribute Selectors
+[att^=val] – the “begins with” selector
+[att$=val] – the “ends with” selector
+[att*=val] – the “contains” selector
+
+
+
