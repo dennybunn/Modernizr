@@ -1,1 +1,35 @@
-Additional tests to be used with modernizr.js
+Additional tests for CSS3 selectors to be used with modernizr.js
+
+Tests Covered:
+--------------
+
+test: last-child
+class added to html element: lastchild  
+
+test: nth-child(odd)
+class added to html element: nthchildodd  
+
+test: nth-child(even)
+class added to html element: nthchildeven  
+
+test: nth-child(n)
+class added to html element: nthchildn  
+
+test: nth-of-type(odd)
+class added to html element: nthoftypeodd  
+
+test: [att^=val] – the “begins with” selector
+class added to html element: attrbegins  
+
+test: [att$=val] – the “ends with” selector
+class added to html element: attrends 
+
+test: [att*=val] – the “contains” selector
+class added to html element: attrcontains  
+
+
+
+
+
+
+
